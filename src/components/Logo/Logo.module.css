@@ -1,0 +1,8 @@
+/* .logoMobile {
+  & path {
+    fill: var(--marketplaceColor);
+  }
+} */
+.logoMobile {
+  height: 25px;
+}
